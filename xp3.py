@@ -13,6 +13,6 @@ print("We can transport", carpool_capacity, "people today.")
 print("We have", passengers, "to carpool today.")
 print("We need to put about", average_passengers_per_car, "in eachcar.")
 
-"""The code didnt work the first time around because the variable pasanger wasnt defined therefore it couldnt find the value to carry out 
+"""The code didnt work the first time around because the variable passanger wasnt defined therefore it couldnt find the value to carry out 
 the rest of the calculations needed to solve the problem
 """
